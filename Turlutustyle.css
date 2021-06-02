@@ -34,4 +34,79 @@ li {
 }
 a {
 	text-decoration: none;
+	color: white;
+}
+p {
+	color: white;
+}
+h1 {
+	color: white;
+}
+h2 {
+	color: white;
+	font-size: 200%;
+}
+h3 {
+	color: white;
+}
+.tête button{
+	margin-top: 30px;
+	/*margin-left: 775px;*/
+	display: inline-block;
+}
+.Start {
+	height: 3em;
+	width: 13em;
+	background-color: #e99002;
+	border: 2px solid white;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 8px;
+	font-size: 1.5em;
+	cursor: pointer;
+}
+.tête img {
+	margin-left: 10%;
+	display: inline-block;
+	float: left;
+}
+.tête {
+	float: left;
+	width: 100%;
+}
+.clear {
+	clear: both;
+}
+.proje {
+	height: 5vh;
+	color: black;
+	background-color: white;
+}
+.awes {
+	padding-top: 1vh;
+	color: black;
+	text-align: center;
+	font-size: 180%;
+}
+.para {
+	display: block;
+	float: left;
+}
+.para2 {
+	display: block;
+	float: left;
+}
+article {
+	font-size: 130%;
+	width: 25%;
+	display: flex;
+}
+.para12 {
+	flex-direction: column;
+	float: left;
+}
+.para34 {
+	flex-direction: column;
 }
