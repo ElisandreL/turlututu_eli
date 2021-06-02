@@ -1,0 +1,34 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	max-height: 100%;
+	max-width: 100%;
+	background-color: #1e93cc;
+}
+nav {
+	display: flex;
+	background-color: #333333;
+	text-decoration: none;
+}
+ul {
+	display: flex;
+	flex-direction: row ;
+	justify-content: flex-start;
+	margin-top: 0;
+}
+li {
+	padding: 1em;
+	list-style-type: none;
+	color: white;
+}
+.login {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+}
+.loogin {
+	display: flex;
+	flex-wrap: nowrap;
+	width: 100%;
+}
