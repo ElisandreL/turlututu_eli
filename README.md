@@ -15,7 +15,7 @@ Projet de mockup à reproduire-Turlututu.
 * reporduire le plus fidèlement possible loe projet,
 * sauvegarder et pusher vers github, 
 * créer une github page.
-* 
+
 ###Pré-requis
 
 * Parcours HTML et CSS finalisé
