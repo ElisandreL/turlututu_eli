@@ -20,7 +20,7 @@ Projet de mockup à reproduire-Turlututu.
 
 * Parcours HTML et CSS finalisé
 * Progressive enhancement finalisé : 
-[Progressive Enhancement - chinese-farmer](https://github.com/ElisandreL/chinese-farmer)]
+[Progressive Enhancement - chinese-farmer(https://github.com/ElisandreL/chinese-farmer)]
 
 ### Logiciel utilisé
 
