@@ -23,7 +23,7 @@ Projet de mockup à reproduire-Turlututu.
 * Progressive enhancement finalisé : 
 [Progressive Enhancement - chinese-farmer](https://github.com/ElisandreL/chinese-farmer)
 
-### Logiciel utilisé
+### Logiciels utilisés
 
 * Git Bash
 * Sublime text/Visual studio code
